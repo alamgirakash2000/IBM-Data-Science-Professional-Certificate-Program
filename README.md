@@ -17,7 +17,7 @@ of the program. The name of the courses are listed below:
     <li>Data Analysis with Python - 6 weeks </li>
     <li>Data Visualization with Python - 5 weeks </li>
     <li>Machine Learning with Python - 6 weeks </li>
-    <li>Applied Data Science Capstone - Final Capston projects </li>
+    <li>Applied Data Science Capstone - Final Capstone projects </li>
  </ol>
 
 This repository is to track my progress of this program and also store all the
