@@ -23,6 +23,8 @@ of the program. The name of the courses are listed below:
 This repository is to track my progress of this program and also store all the
 projects that I have done while doing these courses.
 
+### Certificate Link - [Click Here](https://coursera.org/share/8b305fe9cf333f654523787eadbf1340)
+
 ## Project - 02: The Best Classifier
 
 **[Notebook Link]()** This notebook is created for the final assignment of the
